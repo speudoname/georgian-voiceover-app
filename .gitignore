@@ -39,3 +39,4 @@ videos.db
 # Logs
 *.log
 logs/
+MIGRATION_STATUS.md
